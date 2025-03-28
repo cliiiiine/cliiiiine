@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Keith Robinson</h1>
- <h3 align="center">A data scientist from Tampa, FL, passionate about turning data into actionable insights. I specialize in machine learning, statistical analysis, and data visualization to drive informed decision-making.</h3>
+ <h3 align="center">A data scientist from Tampa, FL, passionate about turning data into actionable insights. I specialize in machine learning, statistical analysis, and data visualization to drive informed decision-making. I've consulted manufacturing OEM's for 10+ years.</h3>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=cliiiiine&label=Profile%20views&color=0e75b6&style=flat" alt="cliiiiine" /> </p>
  
