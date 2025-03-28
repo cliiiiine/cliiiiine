@@ -13,7 +13,7 @@
  
  - 📫 How to reach me **keithr751@gmail.com**
  
- - 📄 Know about my experiences [linkedin.com/in/keithcr](linkedin.com/in/keithcr)
+ - 📄 Know about my experiences [linkedin.com/in/keithcr](https://linkedin.com/in/keithcr/) 
  
  - ⚡ Fun fact **I love to play basketball on my days off**
  
