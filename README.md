@@ -5,7 +5,7 @@
  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cliiiiine" alt="cliiiiine" /></a> </p>
  
- - 🌱 I’m currently learning **Machine Learning for Texts**
+ - 🌱 I’m currently learning and expanding upon **Computer Vision and Deep Learning techniques**
  
  - 👨‍💻 All of my projects are available at [https://github.com/cliiiiine](https://github.com/cliiiiine)
  
